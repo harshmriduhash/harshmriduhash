@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **harshmriduhash/harshmriduhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Welcome to Aswin Barath's profile! 
 aswin-barath   AswinBarath2   aswin_barath_   100011683902531e  
@@ -53,4 +50,3 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
   🔥 GitHub Contributions Streak
   😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages
--->
