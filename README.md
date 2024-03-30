@@ -8,8 +8,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 That's why I like to make things that make a difference.
 
-GIF
-
 Talking about Personal Stuff:
 👨‍🎓 I'm a Senior Software Engineering
 🔭 I’m currently working on JU Query platform
