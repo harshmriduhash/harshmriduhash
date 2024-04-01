@@ -18,7 +18,6 @@ Data Structures and Algorithms on LeetCode
 Tools and technologies from React ecosystem
 👯 Join my community if you're a tech enthusiast
 📬 How to reach me: Harshsahay2709@gmail.com
-📝 Resume.
 
 🛠️ My Favourite tools
 👨‍💻 Programming languages
@@ -33,7 +32,3 @@ GitHub Pages Heroku MongoDB MySQL PostgreSQL Repl.it
 💻 Software and tools
 Audacity Brave Codepen Git Postman Stack Overflow Visual Studio Code
 
-
-
-  🔥 GitHub Contributions Streak
-  😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages
