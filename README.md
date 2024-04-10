@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Mriduhash</h1>
-<h3 align="center">Experienced software developer from Russia</h3>
+<h3 align="center">Experienced software developer from India</h3>
 
 <p align="center">
   <img src="https://github.com/sergeyt/sergeyt/blob/master/cover-coding.gif"/>
