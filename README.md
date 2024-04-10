@@ -9,7 +9,7 @@
 
 - 🔭 My Portfolio Link (https://hmriduhash.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://tsvbits.com/projects](https://tsvbits.com/projects)
+- 👨‍💻 All of my projects are available at [https://github.com/harshmriduhash](https://github.com/harshmriduhash)
 
 - 📝 I have started writing articles on [https://dev.to/harsh_dev26](https://dev.to/harsh_dev26)
 
