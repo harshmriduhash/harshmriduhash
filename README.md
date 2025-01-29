@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshmriduhash](https://github.com/harshmriduhash)
 
-- 📝 I have started writing articles on
-
 - 📫 How to reach me **Harshsahay2709@gmail.com**
 
 - 📄 My Linkedin [https://www.linkedin.com/in/harsh-bestmerndev/](https://www.linkedin.com/in/harsh-bestmerndev/)
