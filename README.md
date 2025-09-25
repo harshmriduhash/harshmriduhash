@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeyt&column=3" alt="sergeyt" /></a> </p>
 
-- 🔭 My Portfolio Link (https://hmriduhash.netlify.app)
-
 - 👨‍💻 All of my projects are available at [https://github.com/harshmriduhash](https://github.com/harshmriduhash)
 
 - 📫 How to reach me **Harshsahay2709@gmail.com**
