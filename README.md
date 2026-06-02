@@ -75,9 +75,9 @@ Transforms GitHub Issues into production-ready Pull Requests using AI agents. Re
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshmriduhash&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00&icon_color=FF5C00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?[username=harshmriduhash](https://github.com/harshmriduhash)&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00&icon_color=FF5C00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmriduhash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?[username=harshmriduhash](https://github.com/harshmriduhash)&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00)
 
 ---
 
