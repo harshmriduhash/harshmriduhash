@@ -1,6 +1,6 @@
 # Hey, I'm Harsh 👋
 
-**Senior GenAI Engineer · Building AI Products in Public**
+**Senior Full Stack GenAI Engineer · Building AI Products in Public**
 
 I build and ship AI products end-to-end — RAG pipelines, Voice AI systems, Agentic architectures. 7+ years across the full stack. Currently running a live experiment: 6 AI SaaS products in 6 weeks, one per week, deployed and documented publicly.
 
