@@ -72,6 +72,11 @@ Transforms GitHub Issues into production-ready Pull Requests using AI agents. Re
 `TypeScript` `GitHub API` `OpenAI`
 
 ---
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshmriduhash&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00&icon_color=FF5C00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmriduhash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00)
 
 ## 📊 Stats
 
@@ -79,16 +84,6 @@ Transforms GitHub Issues into production-ready Pull Requests using AI agents. Re
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmriduhash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5C00)
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshmriduhash&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=%23FF5C00&icon_color=%23FF5C00&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmriduhash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=%23FF5C00&cache_seconds=1800" alt="Top Languages" />
-</p>
----
 
 ## 📬 Let's Talk
 
