@@ -91,6 +91,6 @@ I'm actively looking for **Senior GenAI / Founding Engineer / AI Tech Lead** rol
 |---------|------|
 | 📧 Email | Harshsahay2709@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/harsh-genai](https://linkedin.com/in/harsh-genai) |
-| 🐙 Portfolio | You're already here |
+| 🐙 Portfolio | https://harshmriduhash.vercel.app/ |
 
 > *If you're building something ambitious in AI — reach out directly. I respond to every message.*
