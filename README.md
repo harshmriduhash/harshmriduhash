@@ -73,12 +73,6 @@ Transforms GitHub Issues into production-ready Pull Requests using AI agents. Re
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?(https://github.com/harshmriduhash)
----
-
 ## 📬 Let's Talk
 
 I'm actively looking for **Senior GenAI / Founding Engineer / AI Tech Lead** roles at AI-first startups.
