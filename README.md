@@ -4,7 +4,7 @@
 
 I build and ship AI products end-to-end — RAG pipelines, Voice AI systems, Agentic architectures. 7+ years across the full stack. Currently running a live experiment: 6 AI SaaS products in 6 weeks, one per week, deployed and documented publicly.
 
-→ **Open to**: Senior GenAI Engineer · Founding Engineer · AI Tech Lead ·  Lead Engineer at AI-first startups
+→ **Open to**: Senior GenAI Engineer · Founding Engineer · AI Tech Lead · Lead Engineer ·  at AI-first startups
 → **Reach me**: Harshsahay2709@gmail.com · [linkedin.com/in/harsh-genai](https://linkedin.com/in/harsh-genai)
 
 ---
